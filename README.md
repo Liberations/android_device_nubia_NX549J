@@ -1,1 +1,1 @@
-# android_device_zte_NX549
+# android_device_nubia_NX549J
